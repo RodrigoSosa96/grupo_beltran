@@ -1,0 +1,95 @@
+Home :
+    
+  ☐ Cambiar component de Whatsapp a solo el logo, y/o ocultar en scroll
+
+  
+  QuienesSomos/ContentRightImg:
+    ☐ el botón lo cambiamos seguro...
+    ✔ ContentRightImg Ver + debe llevar a Nosotros @done(22-07-18 03:18)
+    ✔ después hay que sacarle el ver + que termina en el párrafo @done(22-07-18 03:18)
+    ☐ quizas la info más chica 2 puntos menos ? Qué tamaño???
+    
+  Tarjetas:
+    ✔ el efecto bien... hay que ponerle un par de puntos más al título y acercarlo con el texto @done(22-07-18 03:57)
+    
+  Bottom: 
+    ✔ hay que cambiar la imagen @done(22-07-18 04:03)
+
+  Servicios: 
+    ☐ esta sección está casi lista... achicaría un toque los íconos
+
+  Carrousel:
+    ✔ Botón de carrousel gris al final @done(22-07-18 04:22)
+    ✔ Letra muy grande en el título del carrousel @done(22-07-18 04:36)
+    ✔ Botón muy grande @done(22-07-18 04:36)
+    ✔ Botón desactivado Gris @done(22-07-18 04:37)
+    
+    ☐ Queda igual?
+
+- Dia 2
+-Home :
+  -Carrousel:     
+    ✔ los botones se activan solo... deberían estar en gris y cuando uno hace hover de color @started(22-07-19 20:20) @done(22-07-19 20:20) @lasted(30s)
+    ✔ más abajo debería estar la frase @done(22-07-19 20:21)
+    ✘ y más chica @cancelled(22-07-19 20:21)
+    ☐ poner mas abajo el texto
+    ✔ se activa solo? @done(22-07-21 22:11)
+
+  -QuienesSomos:
+    ✔ si podés darle un mínimo al boton de redondeado... que se vea rectangular pero con los bordes redondeados pero poco @done(22-07-21 14:54)
+    ✔ debería activarse de naranja cuando uno hace hover... siempre está en gris @done(22-07-21 14:55)
+      - .3 ms
+    
+  -Proyectos:
+    ✔ la frase arriba del pasto verde así se nota el texto @done(22-07-21 14:58)
+      - bottom 10rem
+    ✔ y el botón cuando uno haga hover debería estar o ponerse más oscuros @started(22-07-21 14:55) @done(22-07-22 21:10) @lasted(1d6h15m25s)
+      -qué hacer?
+    
+    ✔ hice click y me llevó a una pagina en blanco @LINKROTO @done(22-07-21 14:59)
+  -Tarjetas:
+    ✔ falta la galería de imagenes @done(22-07-21 15:08)
+
+-NOSOTROS:
+  ☐ todo muy gigante, habría que achicar
+  Historia: 
+    ✔ Incompleto @done(22-07-21 17:00)
+  Vista:
+    ✔ falta el logo de la empresa @done(22-07-21 22:13)
+    ✔ bajar un par de puntos en esa sección @done(22-07-21 22:13)
+
+Servicios:
+  Proyectos:
+    ☐ web... debería quedar cómo el prototipo... @started(22-07-21 22:14)
+
+☐ te paso, achiqué un poco las tipografías por ahí te guias desde el documento y es mejor
+✔ https://www.instagram.com/gb.constructora/ @done(22-07-21 15:16)
+☐ https://www.facebook.com/gbconstuctora
+
+☐ alineo contacto
+☐ menu se mueve en hover
+☐ logo menu en hover
+
+☐ proyectos en la costa atlantica
+
+☐ contacto sacar email rojo
+☐ carrousel sacar texto mobile
+
+☐ boton ver mas al medio y logo fuera
+
+☐ Slider  Tarjetas home 
+
+
+Nosotros:
+  ☐ Vision mas arriba
+  ☐ Vision mobile abajo de todo , blanco
+  ☐ Titulos bottom fuera
+  ☐ 30 años imagen sobresalga en mobile
+
+proyectos :
+  ☐ galeria slider hacia derecha
+  ☐ slide como lo hacemos
+
+servicios:
+  ☐ titulo bold, y se ve muy arriba 
+  ☐ slider

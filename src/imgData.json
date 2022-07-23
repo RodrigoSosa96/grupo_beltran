@@ -1,0 +1,138 @@
+{
+  "home": {
+    "01-slider principal": [
+      "home/01-slider principal/slider01.jpg",
+      "home/01-slider principal/slider02.jpg",
+      "home/01-slider principal/slider03.jpg"
+    ],
+    "02-nosotros": [
+      "home/02-nosotros/intronosotros.jpg",
+      "home/02-nosotros/costa_esmeralda-05.jpg"
+    ],
+    "03-proyectos_destacados": {
+      "01-costa_esmeralda": [
+        "home/03-proyectos_destacados/01-costa_esmeralda/costa_esmeralda-01.jpg",
+        "home/03-proyectos_destacados/01-costa_esmeralda/costa_esmeralda-02.jpg",
+        "home/03-proyectos_destacados/01-costa_esmeralda/costa_esmeralda-03.jpg",
+        "home/03-proyectos_destacados/01-costa_esmeralda/costa_esmeralda-04.jpg",
+        "home/03-proyectos_destacados/01-costa_esmeralda/costa_esmeralda-05.jpg"
+      ],
+      "02-costa_esmeralda": [
+        "home/03-proyectos_destacados/02-costa_esmeralda/costa_esmeralda-01.jpg",
+        "home/03-proyectos_destacados/02-costa_esmeralda/costa_esmeralda-02.jpg",
+        "home/03-proyectos_destacados/02-costa_esmeralda/costa_esmeralda-03.jpg",
+        "home/03-proyectos_destacados/02-costa_esmeralda/costa_esmeralda-04.jpg",
+        "home/03-proyectos_destacados/02-costa_esmeralda/costa_esmeralda-05.jpg"
+      ],
+      "03-costa_esmeralda": [
+        "home/03-proyectos_destacados/03-costa_esmeralda/costa_esmeralda-01.jpg",
+        "home/03-proyectos_destacados/03-costa_esmeralda/costa_esmeralda-02.jpg",
+        "home/03-proyectos_destacados/03-costa_esmeralda/costa_esmeralda-03.jpg",
+        "home/03-proyectos_destacados/03-costa_esmeralda/costa_esmeralda-04.jpg",
+        "home/03-proyectos_destacados/03-costa_esmeralda/costa_esmeralda-05.jpg"
+      ]
+    },
+    "": [
+      "home/finalweb.jpg"
+    ]
+  },
+  "nosotros": {
+    "Historia Pinamar": [
+      "nosotros/Historia Pinamar/municipiodepinamar.jpeg",
+      "nosotros/Historia Pinamar/ostende.jpeg",
+      "nosotros/Historia Pinamar/pinamar.jpeg",
+      "nosotros/Historia Pinamar/valeriadelmar.jpeg",
+      "nosotros/Historia Pinamar/historia.png"
+    ],
+    "variadasnosotros": [
+      "nosotros/variadasnosotros/aereaspinamar02.jpeg",
+      "nosotros/variadasnosotros/finalnosotros.jpg",
+      "nosotros/variadasnosotros/mision.jpg",
+      "nosotros/variadasnosotros/vision.jpg"
+    ]
+  },
+  "proyectos": {
+    "proyectos galeria de imagenes": {
+      "01": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/01/01.jpg",
+         "proyectos/proyectos galeria de imagenes/01/02.jpg",
+         "proyectos/proyectos galeria de imagenes/01/03.jpg",
+         "proyectos/proyectos galeria de imagenes/01/04.jpg",
+         "proyectos/proyectos galeria de imagenes/01/05.jpg"
+       ]
+      },
+      "02": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/02/01.jpg",
+         "proyectos/proyectos galeria de imagenes/02/02.jpg",
+         "proyectos/proyectos galeria de imagenes/02/03.jpg",
+         "proyectos/proyectos galeria de imagenes/02/04.jpg",
+         "proyectos/proyectos galeria de imagenes/02/05.jpg"
+        ]
+      },
+      "03": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/03/01.jpg",
+         "proyectos/proyectos galeria de imagenes/03/02.jpg",
+         "proyectos/proyectos galeria de imagenes/03/03.jpg",
+         "proyectos/proyectos galeria de imagenes/03/04.jpg",
+         "proyectos/proyectos galeria de imagenes/03/05.jpg"
+        ]
+      },
+      "04": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/04/01.jpg",
+         "proyectos/proyectos galeria de imagenes/04/02.jpg",
+         "proyectos/proyectos galeria de imagenes/04/03.jpg",
+         "proyectos/proyectos galeria de imagenes/04/04.jpg",
+         "proyectos/proyectos galeria de imagenes/04/05.jpg"
+        ]
+      },
+      "05": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/05/01.jpg",
+         "proyectos/proyectos galeria de imagenes/05/02.jpg",
+         "proyectos/proyectos galeria de imagenes/05/03.jpg",
+         "proyectos/proyectos galeria de imagenes/05/04.jpg",
+         "proyectos/proyectos galeria de imagenes/05/05.jpg"
+        ]
+      },
+      "06": {
+        "texto": "Costa Esmeralda",
+        "cards": [
+         "proyectos/proyectos galeria de imagenes/06/01.jpg",
+         "proyectos/proyectos galeria de imagenes/06/02.jpg",
+         "proyectos/proyectos galeria de imagenes/06/03.jpg",
+         "proyectos/proyectos galeria de imagenes/06/04.jpg",
+         "proyectos/proyectos galeria de imagenes/06/05.jpg"
+        ]
+      }
+    },
+    "slider": [
+      "proyectos/slider/01sliderproyectos.jpg",
+      "proyectos/slider/02sliderproyectos.jpg",
+      "proyectos/slider/03sliderproyectos.jpg"
+    ],
+    "": [
+      "proyectos/construccionGB.avif",
+      "proyectos/01.jpg"
+    ]
+  },
+  "servicios": {
+    "": [
+      "servicios/imgservicios01.jpg",
+      "servicios/imgservicios02.jpg"
+    ],
+    "tarjetas" : [
+      "servicios/tarjetas/costa_esmeralda-03.jpg",
+      "servicios/tarjetas/04.jpg",
+      "servicios/tarjetas/sofa.jpg"
+    ]
+  }
+}
